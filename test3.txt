@@ -1,2 +1,2 @@
 test branch one
-modify in master
+modify in both
