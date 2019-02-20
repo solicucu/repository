@@ -2,3 +2,4 @@ test branch one
 modify in both
 merge with ff
 merge with --no-ff
+add dev in another
